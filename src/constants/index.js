@@ -1,0 +1,6 @@
+export const ADD = "ADD";
+export const REMOVE = "REMOVE";
+export const INCREMENT_PRODUCT = "INCREMENT_PRODUCT";
+export const DECREMENT_PRODUCT = "DECREMENT_PRODUCT";
+export const INCREMENT_CART = "INCREMENT_CART";
+export const DECREMENT_CART = "DECREMENT_CART";
